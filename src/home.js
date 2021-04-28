@@ -21,7 +21,7 @@ function home() {
         <div className="navbar-right">
           <a href="#" className="cart">
             <i className="bx bx-cart-alt"></i>
-            <span class="badge">2</span>
+            <span className="badge">2</span>
           </a>
         </div>
       </div>
@@ -417,23 +417,23 @@ function home() {
           </div>
         </div>
       </div>
-      <div id="modal" class="modal">
-        <span id="modal-close" class="close">
+      <div id="modal" className="modal">
+        <span id="modal-close" className="close">
           &times;
         </span>
-        <img id="modal-content" class="modal-content" />
-        <div class="more-images">
-          <div class="more-images-item">
-            <img class="img-preview" />
+        <img id="modal-content" className="modal-content" />
+        <div className="more-images">
+          <div className="more-images-item">
+            <img className="img-preview" />
           </div>
-          <div class="more-images-item">
-            <img class="img-preview" />
+          <div className="more-images-item">
+            <img className="img-preview" />
           </div>
-          <div class="more-images-item">
-            <img class="img-preview" />
+          <div className="more-images-item">
+            <img className="img-preview" />
           </div>
-          <div class="more-images-item">
-            <img class="img-preview" />
+          <div className="more-images-item">
+            <img className="img-preview" />
           </div>
         </div>
       </div>

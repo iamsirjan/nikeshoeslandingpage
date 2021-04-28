@@ -1,7 +1,7 @@
 let slideIndex = 0;
 
 let slider = document.getElementById("slider");
-
+console.log(slider);
 let slides = slider.getElementsByClassName("slide");
 
 let slideControl = document.getElementById("slide-control");
