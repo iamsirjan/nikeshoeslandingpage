@@ -15,7 +15,7 @@ function home() {
                   <span>$</span>230
                 </div>
                 <div className="product-name left-to-right">
-                  <h2>Nike ZoomX Vaporfly NEXT%</h2>
+                  <h2>Nike Air Max Alpha TR 3</h2>
                 </div>
                 <div className="product-size left-to-right">
                   <h3>SIZE</h3>
@@ -51,7 +51,7 @@ function home() {
                     comfort
                   </p>
                 </div>
-                <div className="button mb-5 left-to-right">
+                <div className="button left-to-right">
                   <Link to="cart">
                     <button className="cart-button">Add to cart</button>
                   </Link>
@@ -59,12 +59,12 @@ function home() {
               </div>
             </div>
           </div>
-          <div className="col-6 fullheight img-col">
+          <div className="col-6 fullheight img-col-black">
             <div className="product-img">
               <div className="img-wrapper right-to-left">
                 <div className="bounce">
                   <img
-                    src="https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/zoomx-vaporfly-next-running-shoe-4Q5jfG.png?raw=true"
+                    src="https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/air-max-alpha-tr-3-mens-training-shoe-0C1CV7.png?raw=true"
                     alt="thumbnail image"
                   />
                 </div>
@@ -74,25 +74,25 @@ function home() {
             <div className="more-images">
               <div className="more-images-item bottom-up">
                 <img
-                  src="https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/zoomx-vaporfly-next-running-shoe-4Q5jfG-1.jpg?raw=true"
+                  src="https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/air-max-alpha-tr-3-mens-training-shoe-0C1CV7.png?raw=true"
                   alt="thumbnail image"
                 />
               </div>
               <div className="more-images-item bottom-up">
                 <img
-                  src="https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/zoomx-vaporfly-next-running-shoe-4Q5jfG (2).jpg?raw=true"
+                  src=" https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/air-max-alpha-tr-3-mens-training-shoe-0C1CV7%20(1).jpg?raw=true"
                   alt="thumbnail image"
                 />
               </div>
               <div className="more-images-item bottom-up">
                 <img
-                  src="https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/zoomx-vaporfly-next-running-shoe-4Q5jfG%20(3).jpg?raw=true"
+                  src="https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/air-max-alpha-tr-3-mens-training-shoe-0C1CV7%20(2).jpg?raw=true"
                   alt="thumbnail image"
                 />
               </div>
               <div className="more-images-item bottom-up">
                 <img
-                  src="https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/zoomx-vaporfly-next-running-shoe-4Q5jfG%20(4).jpg?raw=true"
+                  src="https://github.com/trananhtuat/nike-shoes-landing-page/blob/main/assets/air-max-alpha-tr-3-mens-training-shoe-0C1CV7%20(3).jpg?raw=true"
                   alt="thumbnail image"
                 />
               </div>
